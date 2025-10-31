@@ -4,7 +4,7 @@ publishDate: 2024-03-04 00:00:00
 img: /assets/rubyShowcase.gif
 img_alt: gif of the game
 description: |
-  A 3D stylized puzzle shooter set in the ancient ruins of the Crystalins, a lost race of living stones. Solve puzzles and use magic projectiles to restore their scattered crystals.
+  A 3D stylized puzzle shooter set in the ancient ruins of the Crystalins, a lost race of living stones. Solve puzzles and use magic projectiles to restore their scattered crystals. Available on Steam !
 tags:
   - UE5
   - Puzzle Shooter
@@ -27,6 +27,40 @@ The goal was to create a **vertical slice** within a **six-month timeframe** (fr
 <a href="\assets\ressources\ressourceRuby\affiche.png">
   <img src="\assets\ressources\ressourceRuby\affiche.png" alt="Affiche">
 </a>
+
+### Best Student Game Project
+### SAE Awards 2025
+
+I’m incredibly proud to share that our project won “Best Student Game Project” at the SAE Awards 2025 in Cologne, Germany!
+It was an unforgettable moment to see our work recognized and to step on stage alongside talented students from around the world.
+
+I’m beyond grateful to my amazing team for their passion, creativity, dedication and to SAE Institute for giving us the opportunity to bring this project to life.
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 1%;text-align:center">
+  <div style="flex: 0 0 49%;">
+    <img src="/assets/ressources/ressourceRuby/Team2025.png" 
+         alt="Team photo on stage during the ceremony."
+         style="width: 100%; display: block;">
+    <p style="margin-top: -5px;">
+      <em>Team photo on stage during the ceremony.</em>
+    </p>
+  </div>
+
+  <div style="flex: 0 0 49%; text-align:center">
+    <img src="/assets/ressources/ressourceRuby/Me2025.png" 
+         alt="Photo taken while I was speaking on behalf of the entire team."
+         style="width: 100%; display: block;">
+    <p style="margin-top: -5px;">
+      <em>Photo taken while I was speaking on behalf of the entire team.</em>
+    </p>
+  </div>
+</div>
+
+<div style="text-align:center">
+  <img src="\assets\ressources\ressourceRuby\Winner_2025.jpg" alt="Final photo of the ceremony with all the winners from each SAE school around the world." style="width: 100%;">
+  <p style="margin-top: -5px"><em>Final photo of the ceremony with all the winners from each SAE school around the world.</em></p>
+</div>
 
 ### Pitch
 
